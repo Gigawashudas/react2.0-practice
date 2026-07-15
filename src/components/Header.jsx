@@ -8,7 +8,8 @@ export default function Header({search, setSearch, isStockOnly, setIsStockOnly})
         
 
         <div className='header'>
-            <input 
+            <input
+            id='search' 
             className='searchInput'
             type="text"
             placeholder="Search"
