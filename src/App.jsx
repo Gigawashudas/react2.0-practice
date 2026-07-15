@@ -1,7 +1,7 @@
 
 
 
-
+import './styles/app.css'
 import Header from "./components/Header"
 import Body from './components/Body'
 import { useState } from 'react'
@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-    <main>
+    <main className='main'>
       <Header 
       key={products.id} 
       products={products} 

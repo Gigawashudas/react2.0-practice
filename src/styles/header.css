@@ -1,0 +1,18 @@
+.header {
+    border: 1px solid gray;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.searchInput {
+    width: 250px;
+    padding: 5px;
+}
+
+.sortBtn {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

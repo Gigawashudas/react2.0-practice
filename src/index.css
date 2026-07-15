@@ -1,1 +1,8 @@
-/* 
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center; /* Horizontal */
+  align-items: center;
+}
+
+
