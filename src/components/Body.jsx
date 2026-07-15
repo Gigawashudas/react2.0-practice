@@ -1,7 +1,7 @@
 
 
 
-import "../styles/body.css"
+
 import Fruits from './Fruits.jsx'
 import Vegetables from "./Vegetables.jsx"
 export default function Body({products, search}) {

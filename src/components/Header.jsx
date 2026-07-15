@@ -1,7 +1,8 @@
 
 
 
-import '../styles/header.css'
+
+
 export default function Header({search, setSearch, isStockOnly, setIsStockOnly}) {
     return (
 

@@ -1,6 +1,7 @@
 
 
 
+
 import Fruit from "./Fruit.jsx"
 export default function Fruits({products}) {
     return (
