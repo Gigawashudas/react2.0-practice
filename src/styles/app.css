@@ -1,4 +1,5 @@
 .main {
+    min-height: 404px;
     display: flex;
     gap: 20px;
     flex-direction: column;

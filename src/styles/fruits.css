@@ -1,3 +1,7 @@
 h2 {
     text-align: center;
 }
+
+.fruits {
+    min-height: 112px;
+}
