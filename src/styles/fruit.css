@@ -1,0 +1,9 @@
+.fruit {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+.name {
+    min-width: 80px;
+}

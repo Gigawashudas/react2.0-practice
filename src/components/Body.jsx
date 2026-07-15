@@ -1,13 +1,13 @@
 
 
 
-
+import '../styles/body.css'
 import Fruits from './Fruits.jsx'
 import Vegetables from "./Vegetables.jsx"
 export default function Body({products, search}) {
 
     const filteredProduct = products.filter( product => product.name.toLowerCase().includes(search.toLowerCase()))
-    
+
     const displayProducts = search ? filteredProduct : products
 
     return (

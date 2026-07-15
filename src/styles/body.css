@@ -1,0 +1,12 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.thead {
+    display: flex;
+    justify-content: space-between;
+}

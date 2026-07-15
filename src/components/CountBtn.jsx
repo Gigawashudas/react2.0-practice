@@ -1,7 +1,7 @@
 
 
 
-
+import '../styles/btns.css'
 import { useState } from "react"
 
 export default function  CountBtn() {
