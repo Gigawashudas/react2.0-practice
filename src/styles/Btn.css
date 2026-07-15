@@ -1,0 +1,13 @@
+.btns {
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    width:20px;
+}
+
+.count {
+    padding-right: 5px;
+}
